@@ -14,7 +14,7 @@ public class DemoTest {
 		//Comments Added
 	
 		String env = "winChromePath";
-		String winChromePath="C:/Program Files (x86)/Jenkins/workspace/AutomationDemo/src\test/java/resources/chromedriver.exe";
+		String winChromePath="C:/Program Files (x86)/Jenkins/workspace/AutomationDemo/src/test/java/resources/chromedriver.exe";
 		String linuxChromePath = "C:/Users/Hp/Appium_Demo/demoframework/src/test/java/resources/chromedriver";
 		
 		if(env.equals("winChromePath")){
